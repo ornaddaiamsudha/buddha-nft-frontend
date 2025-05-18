@@ -27,5 +27,6 @@ const App = () => {
     </div>
   );
 };
-
+//Temprorary change to force redeploy
+console.log("Force rebuild")
 export default App;
